@@ -24,4 +24,5 @@ Contents:
 
 * test.bmp
    test is a real DoFP image for testing the method.
+ !(image)(https://github.com/polwork/Newton-Polynomial-Interpolation-1.0/blob/master/SignOfLab.png)
 
